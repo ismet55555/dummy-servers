@@ -1,6 +1,6 @@
 # Python HTTP/HTTPS Web Server
 
-> **WARNING:** This web server is for development, testing, and troubleshooting only
+:exclamation: **WARNING** These web servers are for development, testing, and troubleshooting only 
 
 ## Dependencies
 
